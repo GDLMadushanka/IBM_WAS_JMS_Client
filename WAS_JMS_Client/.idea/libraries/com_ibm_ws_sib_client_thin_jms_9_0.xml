@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.ibm.ws.sib.client.thin.jms_9.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../libs/com.ibm.ws.sib.client.thin.jms_9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
